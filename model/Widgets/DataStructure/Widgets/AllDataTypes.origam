@@ -15,7 +15,19 @@
       dse:ignoreImplicitFilters="false"
       asi:name="AllDataTypes"
       dse:relationType="Normal"
-      dse:useUpsert="false" />
+      dse:useUpsert="false">
+      <dse:DataStructureEntity
+        asi:abstract="false"
+        dse:allFields="true"
+        dse:concurrencyHandling="Standard"
+        dse:entity="Widgets/DataEntity/Widgets/AllDataTypes.origam#AllDataTypes/TagInputBinding/9a7b8c2c-f8a8-4fed-8470-895d2618499a"
+        x:id="ef0d62a1-e6de-465a-88e2-44b03610ac6c"
+        dse:ignoreCondition="None"
+        dse:ignoreImplicitFilters="false"
+        asi:name="TagInputBinding"
+        dse:relationType="Normal"
+        dse:useUpsert="false" />
+    </dse:DataStructureEntity>
     <dsfs:DataStructureFilterSet
       asi:abstract="false"
       dsfs:dynamic="false"
