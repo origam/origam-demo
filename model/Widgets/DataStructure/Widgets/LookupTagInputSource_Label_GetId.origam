@@ -19,6 +19,18 @@
       <dsc:DataStructureColumn
         asi:abstract="false"
         dsc:aggregation="None"
+        dsc:field="Widgets/DataEntity/Widgets/TagInputSource.origam#TagInputSource/Number/3220b91a-532f-46ce-82dc-0a8af2786937"
+        dsc:hideInOutput="false"
+        x:id="1b048314-985b-4d8a-ae15-000331f28281"
+        asi:name="Number"
+        dsc:upsertType="Replace"
+        dsc:useCopiedValue="false"
+        dsc:useLookupValue="false"
+        dsc:writeOnly="false"
+        dsc:xmlMappingType="Default" />
+      <dsc:DataStructureColumn
+        asi:abstract="false"
+        dsc:aggregation="None"
         dsc:field="Root/DataEntity/Widgets/TagInputSource.origam#TagInputSource/Id/c54413b6-eb88-49c8-a7ff-3bb942c1984e"
         dsc:hideInOutput="false"
         x:id="a0013bc9-d9c3-465e-8cd6-7ad36374a442"

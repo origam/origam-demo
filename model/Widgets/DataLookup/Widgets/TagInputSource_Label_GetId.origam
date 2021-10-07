@@ -7,7 +7,7 @@
     adl:isFilteredServerside="false"
     adl:isTree="false"
     adl:listDataStructure="Widgets/DataStructure/Widgets/LookupTagInputSource_Label_GetId.origam#LookupTagInputSource_Label_GetId/bfff4e9b-2d75-4b2e-8f78-80ce9ff1d4e3"
-    adl:listDisplayMember="Label"
+    adl:listDisplayMember="Number;Label"
     adl:listValueMember="Id"
     asi:name="TagInputSource_Label_GetId"
     adl:searchByFirstColumnOnly="false"
