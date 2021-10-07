@@ -18,6 +18,17 @@
       dse:useUpsert="false">
       <dse:DataStructureEntity
         asi:abstract="false"
+        dse:allFields="true"
+        dse:concurrencyHandling="Standard"
+        dse:entity="Root/DataEntity/__system/OrigamTraceWorkflow.origam#OrigamTraceWorkflow/OrigamTraceRule/c4ff1a26-0577-4c66-8b0e-e4459553d43f"
+        x:id="2d088790-8656-4ab7-9169-1ade690ab640"
+        dse:ignoreCondition="None"
+        dse:ignoreImplicitFilters="false"
+        asi:name="OrigamTraceRule"
+        dse:relationType="Normal"
+        dse:useUpsert="false" />
+      <dse:DataStructureEntity
+        asi:abstract="false"
         dse:allFields="false"
         dse:concurrencyHandling="Standard"
         dse:entity="Root/DataEntity/__system/OrigamTraceWorkflow.origam#OrigamTraceWorkflow/OrigamDebugWorkflowStep/affcb263-3154-4d98-86ea-83f37a97c8aa"
@@ -228,6 +239,13 @@
         dsssi:fieldName="RecordCreated"
         x:id="3561b43a-c007-4f4c-b7c2-3d8572861912"
         asi:name="OrigamTraceWorkflowStep_RecordCreated"
+        dsssi:sortDirection="Ascending" />
+      <dsssi:DataStructureSortSetItem
+        asi:abstract="false"
+        dsssi:entity="Root/DataStructure/__system/OrigamTraceWorkflowScreen.origam#OrigamTraceWorkflowScreen/OrigamTraceWorkflow/OrigamTraceRule/2d088790-8656-4ab7-9169-1ade690ab640"
+        dsssi:fieldName="RecordCreated"
+        x:id="563aa13c-4eeb-4c1d-a009-b13a4978187c"
+        asi:name="OrigamTraceRule_0_RecordCreated"
         dsssi:sortDirection="Ascending" />
       <dsssi:DataStructureSortSetItem
         asi:abstract="false"
