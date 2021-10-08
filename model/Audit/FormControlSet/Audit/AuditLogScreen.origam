@@ -85,7 +85,7 @@
           csi:level="100"
           asi:name="FilterPlugin"
           csi:requestSaveAfterChange="false"
-          csi:widget="Root/Control/_Basic Controls/FormLevelPlugin.origam#FormLevelPlugin/dc4e66c4-895b-4ba8-9e11-3faa37508816">
+          csi:widget="Root/Control/_Basic Controls/ScreenLevelPlugin.origam#ScreenLevelPlugin/dc4e66c4-895b-4ba8-9e11-3faa37508816">
           <pvi:PropertyValueItem
             asi:abstract="false"
             x:id="063fad03-8e46-490c-8ab9-dd1a3aa84fa7"
