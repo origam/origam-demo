@@ -244,13 +244,6 @@
         x:id="6ad8d5e9-9d81-4fc1-8c58-3a097f6fcfa3"
         asi:name="WorkQueueEntry_GetByrefRel5Id"
         dsfsf:passWhenParameterMatch="false" />
-      <dsfsf:DataStructureFilterSetFilter
-        asi:abstract="false"
-        dsfsf:entity="Root/DataStructure/Work Queue/WQ_Mail.origam#WQ_Mail/WorkQueueEntry/edf36d46-ea77-49ee-a500-90cbd66d9e32"
-        dsfsf:filter="Root/DataEntity/Work Queue/WorkQueueEntry.origam#WorkQueueEntry/GetByrefRel5Id/8754075e-5086-4806-bf6e-b5591f50f9b5"
-        x:id="6ad8d5e9-9d81-4fc1-8c58-3a097f6fcfa3"
-        asi:name="WorkQueueEntry_GetByrefRel5Id"
-        dsfsf:passWhenParameterMatch="false" />
     </dsfs:DataStructureFilterSet>
     <dsfs:DataStructureFilterSet
       asi:abstract="false"
