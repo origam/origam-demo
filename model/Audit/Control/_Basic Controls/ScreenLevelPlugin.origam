@@ -3,17 +3,17 @@
   <cpi:ControlPropertyItem
     asi:abstract="true"
     cpi:bindOnly="false"
-    x:id="8fb7d9cc-3e05-43fa-a5ac-470bb3620cad"
+    x:id="0814016a-ab52-4585-b549-8263ef4eb543"
     cpi:localizable="false"
-    asi:name="FromParameterName"
+    asi:name="ToParameterName"
     x:parentId="dc4e66c4-895b-4ba8-9e11-3faa37508816"
     cpi:propertyType="String" />
   <cpi:ControlPropertyItem
     asi:abstract="true"
     cpi:bindOnly="false"
-    x:id="fa6de265-d605-46bd-b5a1-bac14b278a47"
+    x:id="e11a6e62-98da-4837-b162-7aba4582ac7d"
     cpi:localizable="false"
-    asi:name="ToParameterName"
+    asi:name="FromParameterName"
     x:parentId="dc4e66c4-895b-4ba8-9e11-3faa37508816"
     cpi:propertyType="String" />
 </x:file>
