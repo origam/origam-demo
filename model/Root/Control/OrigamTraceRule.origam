@@ -2,16 +2,16 @@
 <x:file xmlns:x="http://schemas.origam.com/model-persistence/1.0.0" xmlns:asi="http://schemas.origam.com/Origam.Schema.AbstractSchemaItem/6.0.0" xmlns:ci="http://schemas.origam.com/Origam.Schema.GuiModel.ControlItem/6.0.0" xmlns:sia="http://schemas.origam.com/Origam.Schema.SchemaItemAncestor/6.0.0">
   <ci:Control
     asi:abstract="false"
-    x:id="4f9ccad1-92c4-4d23-ba22-c4ebae204b93"
+    x:id="cc45f294-4251-40f3-8713-313907ab4068"
     ci:isComplex="true"
-    asi:name="OrigamDataAuditLog"
+    asi:name="OrigamTraceRule"
     ci:namespace="Origam.Schema.GuiModel"
     ci:requestSaveAfterChangeAllowed="false"
-    ci:screenSection="Audit/PanelControlSet/Audit/OrigamDataAuditLog.origam#OrigamDataAuditLog/9e6de5c0-f0b2-4a95-9758-37fa1429dd60"
+    ci:screenSection="Root/PanelControlSet/__system/OrigamTraceRule.origam#OrigamTraceRule/a6360af8-8c2e-46be-b83d-97ca0013638b"
     ci:toolboxVisibility="FormDesigner"
     ci:typeName="Origam.Schema.GuiModel.PanelControlSet">
     <sia:ancestor
       sia:ancestor="Root/Control/_Basic Controls/AsPanel.origam#AsPanel/47a20d1a-ae4b-482c-949f-a81bee8ea28d"
-      x:id="af955375-fedc-4154-b12e-536082a182c8" />
+      x:id="b61d7801-77a2-4e93-83a9-8a81c277cd1b" />
   </ci:Control>
 </x:file>
