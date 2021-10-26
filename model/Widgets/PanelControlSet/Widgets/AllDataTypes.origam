@@ -328,114 +328,114 @@
           pbi:value="Text1" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="495e9c92-5725-4c37-8fab-a67650f18ba3"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
-          pvi:value="00000000-0000-0000-0000-000000000000" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="23796b42-d552-4901-8c4e-0252f2c982a9"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="e1cdf1b5-cd9c-4989-999f-21af32ec6240"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="b8410a01-184d-47f1-bc7d-2982f8a12a6b"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
-          pvi:value="0" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="b9a6349c-c604-4724-abee-0b7138550655"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
-          pvi:value="0" />
+          x:id="1f58e625-d176-43bd-85d0-933da2aeccd0"
+          asi:name="Caption"
+          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="a23848c8-d6a8-4f71-bdfc-c81526fc7960"
-          asi:name="NewPropertyValue"
+          asi:name="CaptionLength"
           apvi:propertyId="0a68bbf8-dc94-415f-baba-768e947f19e8"
           pvi:value="100" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="69a707c3-5e33-4ede-a631-35375bef9c54"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="1713bfc4-d991-4c6d-a26e-93bd8ef8046b" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="c33d40ff-a2e4-4615-9446-60346fb2a960"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="d613024f-0bcc-41a7-a910-c5229b1005a5"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="cec0b312-1075-4fd2-b8e6-9cd34c379450"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
-          pvi:value="400" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="fbc316c7-ca6c-4a78-8fc4-c57140e72896"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
-          pvi:value="19" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="314305ed-6fb2-46e3-a517-6193f321df10"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
+          x:id="b8410a01-184d-47f1-bc7d-2982f8a12a6b"
+          asi:name="CaptionPosition"
+          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
           pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="69a707c3-5e33-4ede-a631-35375bef9c54"
+          asi:name="CustomNumericFormat"
+          apvi:propertyId="1713bfc4-d991-4c6d-a26e-93bd8ef8046b" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="f1f5edd4-d719-4e3d-845b-e3539d5e4a0f"
-          asi:name="NewPropertyValue"
+          asi:name="Dock"
           apvi:propertyId="24326c8e-8fa1-40f5-9e52-ba02e755127c"
           pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="7a99994e-7fc5-4829-9f81-771be4d64f53"
+          asi:name="GridColumnCaption"
+          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="b9a6349c-c604-4724-abee-0b7138550655"
+          asi:name="GridColumnWidth"
+          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="fbc316c7-ca6c-4a78-8fc4-c57140e72896"
+          asi:name="Height"
+          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
+          pvi:value="20" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="d613024f-0bcc-41a7-a910-c5229b1005a5"
+          asi:name="HideOnForm"
+          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="e1cdf1b5-cd9c-4989-999f-21af32ec6240"
+          asi:name="IsPassword"
+          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="23816f96-c3c4-4d74-ae5f-1eca24b244d4"
+          asi:name="IsRichText"
+          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="00c6d082-7905-4c3c-8fd7-d6d76f93b572"
-          asi:name="NewPropertyValue"
+          asi:name="Left"
           apvi:propertyId="729b0402-6d81-47bc-936a-c26328136607"
           pvi:value="108" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="e59155c8-3088-43ae-a89f-22f55ee57a6f"
-          asi:name="NewPropertyValue"
+          asi:name="Multiline"
           apvi:propertyId="c2abd09e-17b2-4a60-9a62-c28078dc632a"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="1f58e625-d176-43bd-85d0-933da2aeccd0"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="23816f96-c3c4-4d74-ae5f-1eca24b244d4"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          x:id="c33d40ff-a2e4-4615-9446-60346fb2a960"
+          asi:name="ReadOnly"
+          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="7a99994e-7fc5-4829-9f81-771be4d64f53"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+          x:id="495e9c92-5725-4c37-8fab-a67650f18ba3"
+          asi:name="StyleId"
+          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
+          pvi:value="84c92bf3-57d6-47da-b4e4-bb1eff346d65" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="314305ed-6fb2-46e3-a517-6193f321df10"
+          asi:name="TabIndex"
+          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
+          pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="c3529f42-91b4-4d2a-9d4c-1b04dac2212d"
-          asi:name="NewPropertyValue"
+          asi:name="Top"
           apvi:propertyId="bf2e55d0-5859-4b26-9e82-f187a61f53f7"
           pvi:value="36" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="23796b42-d552-4901-8c4e-0252f2c982a9"
+          asi:name="Value"
+          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="cec0b312-1075-4fd2-b8e6-9cd34c379450"
+          asi:name="Width"
+          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
+          pvi:value="400" />
       </csi:ControlSetItem>
       <csi:ControlSetItem
         asi:abstract="false"
@@ -454,114 +454,114 @@
           pbi:value="Integer1" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="d0a2fb76-69ac-486c-988d-cddd97f6f47c"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
-          pvi:value="00000000-0000-0000-0000-000000000000" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="28137307-9df7-4627-846a-40f56c1af383"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="0b9f9eda-8683-4ab9-8167-cb24074b2902"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="de25f2bc-e4c7-4397-a860-7088429a297b"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
-          pvi:value="0" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="96c01744-93d5-4210-9616-a6322cb58e9a"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
-          pvi:value="0" />
+          x:id="345e808b-2a01-4923-bea7-800db53ab8f0"
+          asi:name="Caption"
+          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="9234d983-c311-485e-83f5-209c5052fb5f"
-          asi:name="NewPropertyValue"
+          asi:name="CaptionLength"
           apvi:propertyId="0a68bbf8-dc94-415f-baba-768e947f19e8"
           pvi:value="100" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="de25f2bc-e4c7-4397-a860-7088429a297b"
+          asi:name="CaptionPosition"
+          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="6f44df87-d071-47ca-a6aa-7379c9d6a0a3"
-          asi:name="NewPropertyValue"
+          asi:name="CustomNumericFormat"
           apvi:propertyId="1713bfc4-d991-4c6d-a26e-93bd8ef8046b" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="bcdf827c-e9f6-4aa3-a958-32f0d293f797"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="32a0d751-e7c7-434d-9553-38b0c6cc3b4f"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="4bcfdc23-3b2d-4e8a-83ff-f728d237f6e7"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
-          pvi:value="400" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="26b1e3ce-7f8d-4c0e-9c40-f8ea66227424"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
-          pvi:value="19" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="a3d53cce-4a3b-43d1-ad9e-65112744b252"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
-          pvi:value="2" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
           x:id="bd9989ab-c2fd-4c15-9c3d-69e27412b2cc"
-          asi:name="NewPropertyValue"
+          asi:name="Dock"
           apvi:propertyId="24326c8e-8fa1-40f5-9e52-ba02e755127c"
           pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="edd2cb43-c026-47b3-9d66-bd6d8b932d67"
+          asi:name="GridColumnCaption"
+          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="96c01744-93d5-4210-9616-a6322cb58e9a"
+          asi:name="GridColumnWidth"
+          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="26b1e3ce-7f8d-4c0e-9c40-f8ea66227424"
+          asi:name="Height"
+          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
+          pvi:value="20" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="32a0d751-e7c7-434d-9553-38b0c6cc3b4f"
+          asi:name="HideOnForm"
+          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="0b9f9eda-8683-4ab9-8167-cb24074b2902"
+          asi:name="IsPassword"
+          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="4d2dc589-38a7-4845-9f83-f34d2f028bab"
+          asi:name="IsRichText"
+          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="a6ea803c-63bc-4924-b611-579ae4f1fa51"
-          asi:name="NewPropertyValue"
+          asi:name="Left"
           apvi:propertyId="729b0402-6d81-47bc-936a-c26328136607"
           pvi:value="108" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="58513426-834b-4dd5-9b89-8484aca67b35"
-          asi:name="NewPropertyValue"
+          asi:name="Multiline"
           apvi:propertyId="c2abd09e-17b2-4a60-9a62-c28078dc632a"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="345e808b-2a01-4923-bea7-800db53ab8f0"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="4d2dc589-38a7-4845-9f83-f34d2f028bab"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          x:id="bcdf827c-e9f6-4aa3-a958-32f0d293f797"
+          asi:name="ReadOnly"
+          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="edd2cb43-c026-47b3-9d66-bd6d8b932d67"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+          x:id="d0a2fb76-69ac-486c-988d-cddd97f6f47c"
+          asi:name="StyleId"
+          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
+          pvi:value="9b96d7d0-7da6-45ad-90cd-546b5f46a522" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="a3d53cce-4a3b-43d1-ad9e-65112744b252"
+          asi:name="TabIndex"
+          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
+          pvi:value="2" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="0dd0afa2-dba6-4b9a-83d7-b961c920b214"
-          asi:name="NewPropertyValue"
+          asi:name="Top"
           apvi:propertyId="bf2e55d0-5859-4b26-9e82-f187a61f53f7"
           pvi:value="72" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="28137307-9df7-4627-846a-40f56c1af383"
+          asi:name="Value"
+          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="4bcfdc23-3b2d-4e8a-83ff-f728d237f6e7"
+          asi:name="Width"
+          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
+          pvi:value="400" />
       </csi:ControlSetItem>
       <csi:ControlSetItem
         asi:abstract="false"
@@ -580,114 +580,114 @@
           pbi:value="Currency1" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="4559e84d-2da7-4044-bf8c-761c6c73d9c9"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
-          pvi:value="00000000-0000-0000-0000-000000000000" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="4cb0bb80-987a-4b18-93ee-1e69f8f47ec2"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="c9be2d90-1037-4397-844e-139ba39c6068"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="2faf3f28-bcf0-42c9-b963-f3b7b00a1b6d"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
-          pvi:value="0" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="9c843505-4c05-4b10-a184-dccb6a7f03e0"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
-          pvi:value="0" />
+          x:id="fb3dfc53-53e2-4013-a58f-98a4cf0139bc"
+          asi:name="Caption"
+          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="d8b616e1-63ad-4ec5-a79e-984c512335ce"
-          asi:name="NewPropertyValue"
+          asi:name="CaptionLength"
           apvi:propertyId="0a68bbf8-dc94-415f-baba-768e947f19e8"
           pvi:value="100" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="2faf3f28-bcf0-42c9-b963-f3b7b00a1b6d"
+          asi:name="CaptionPosition"
+          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="7fa548c3-de52-4d36-9156-afed5479eb9b"
-          asi:name="NewPropertyValue"
+          asi:name="CustomNumericFormat"
           apvi:propertyId="1713bfc4-d991-4c6d-a26e-93bd8ef8046b" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="7b47d28d-8e5b-45ea-96b5-499cf2e3e093"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="30708603-d128-41fe-9226-42d19d075335"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="c53c947b-a454-499a-923b-38f5a430e247"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
-          pvi:value="400" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="c1dbbcd2-f722-4b31-b47d-10f83b5c409c"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
-          pvi:value="19" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="6b4f5fb9-db8e-4fc4-9203-632c55ca2823"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
-          pvi:value="3" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
           x:id="7130ab3e-25bb-44c4-afe5-cfe37a7cfa0b"
-          asi:name="NewPropertyValue"
+          asi:name="Dock"
           apvi:propertyId="24326c8e-8fa1-40f5-9e52-ba02e755127c"
           pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="c736f3e5-1169-4bd7-b344-b7242490ddcd"
+          asi:name="GridColumnCaption"
+          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="9c843505-4c05-4b10-a184-dccb6a7f03e0"
+          asi:name="GridColumnWidth"
+          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="c1dbbcd2-f722-4b31-b47d-10f83b5c409c"
+          asi:name="Height"
+          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
+          pvi:value="20" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="30708603-d128-41fe-9226-42d19d075335"
+          asi:name="HideOnForm"
+          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="c9be2d90-1037-4397-844e-139ba39c6068"
+          asi:name="IsPassword"
+          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="6a210091-c86f-41f3-96de-120aa1762292"
+          asi:name="IsRichText"
+          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="6e7c0d1c-99e0-4310-89ba-141f01787407"
-          asi:name="NewPropertyValue"
+          asi:name="Left"
           apvi:propertyId="729b0402-6d81-47bc-936a-c26328136607"
           pvi:value="108" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="d15c33d7-b040-4234-b3ac-cf243128d6b4"
-          asi:name="NewPropertyValue"
+          asi:name="Multiline"
           apvi:propertyId="c2abd09e-17b2-4a60-9a62-c28078dc632a"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="fb3dfc53-53e2-4013-a58f-98a4cf0139bc"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="6a210091-c86f-41f3-96de-120aa1762292"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          x:id="7b47d28d-8e5b-45ea-96b5-499cf2e3e093"
+          asi:name="ReadOnly"
+          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="c736f3e5-1169-4bd7-b344-b7242490ddcd"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+          x:id="4559e84d-2da7-4044-bf8c-761c6c73d9c9"
+          asi:name="StyleId"
+          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
+          pvi:value="153dbc4f-b45a-41c3-914a-793a0db652cb" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="6b4f5fb9-db8e-4fc4-9203-632c55ca2823"
+          asi:name="TabIndex"
+          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
+          pvi:value="3" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="284801d5-9533-4606-9b0a-9e4b42b99a69"
-          asi:name="NewPropertyValue"
+          asi:name="Top"
           apvi:propertyId="bf2e55d0-5859-4b26-9e82-f187a61f53f7"
           pvi:value="90" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="4cb0bb80-987a-4b18-93ee-1e69f8f47ec2"
+          asi:name="Value"
+          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="c53c947b-a454-499a-923b-38f5a430e247"
+          asi:name="Width"
+          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
+          pvi:value="400" />
       </csi:ControlSetItem>
       <csi:ControlSetItem
         asi:abstract="false"
@@ -706,114 +706,114 @@
           pbi:value="Long1" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="318a86ba-4492-494f-bec7-2d2dca84c35f"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
-          pvi:value="00000000-0000-0000-0000-000000000000" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="ca397e59-b0f8-4eb5-b68c-42538e6f3e37"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="0feff983-92e3-4712-8577-61caba416fb8"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="f9eb8f85-6eae-4c4a-beef-dc4d7c68801b"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
-          pvi:value="0" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="c2a11f0b-31a5-4d9e-a721-3c2ec01ad998"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
-          pvi:value="0" />
+          x:id="38d77c6e-07d1-49e1-aa54-78b3ebe7e9ce"
+          asi:name="Caption"
+          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="63eb7d15-0cd3-47fb-a55b-7aae13e2074c"
-          asi:name="NewPropertyValue"
+          asi:name="CaptionLength"
           apvi:propertyId="0a68bbf8-dc94-415f-baba-768e947f19e8"
           pvi:value="100" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="f9eb8f85-6eae-4c4a-beef-dc4d7c68801b"
+          asi:name="CaptionPosition"
+          apvi:propertyId="2b6c0455-a35e-4eef-9eaa-740f66732087"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="d6cfb4f8-282f-42a2-bf7c-7e3e9c311262"
-          asi:name="NewPropertyValue"
+          asi:name="CustomNumericFormat"
           apvi:propertyId="1713bfc4-d991-4c6d-a26e-93bd8ef8046b" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="d65bc11f-8044-49e9-a5d8-9fb325c8af25"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="01e7e658-5062-42d8-810f-18ea6214d449"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
-          pvi:value="false" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="8a668554-a5e4-4c9a-9c04-6be77dbe0497"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
-          pvi:value="400" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="76ef5193-fe02-4be7-ba59-5bb90ecae4bc"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
-          pvi:value="19" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="a20d0bb3-2989-4dfc-a13c-ae43368abe88"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
-          pvi:value="5" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
           x:id="3c128e9f-10d2-4ba2-bd8c-7ee29dd4b382"
-          asi:name="NewPropertyValue"
+          asi:name="Dock"
           apvi:propertyId="24326c8e-8fa1-40f5-9e52-ba02e755127c"
           pvi:value="0" />
         <pvi:PropertyValueItem
           asi:abstract="false"
+          x:id="08093855-6494-4dca-88a3-ac742b64fc6a"
+          asi:name="GridColumnCaption"
+          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="c2a11f0b-31a5-4d9e-a721-3c2ec01ad998"
+          asi:name="GridColumnWidth"
+          apvi:propertyId="16162dee-452f-4290-b8d5-753b89647f48"
+          pvi:value="0" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="76ef5193-fe02-4be7-ba59-5bb90ecae4bc"
+          asi:name="Height"
+          apvi:propertyId="c84ec964-046e-4a30-8941-a4eb234a2303"
+          pvi:value="20" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="01e7e658-5062-42d8-810f-18ea6214d449"
+          asi:name="HideOnForm"
+          apvi:propertyId="5ec12c37-3a98-4d95-ac90-9a3045969728"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="0feff983-92e3-4712-8577-61caba416fb8"
+          asi:name="IsPassword"
+          apvi:propertyId="d943815e-c6df-4236-99e8-566aaf4acc20"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="ed07e3e4-e794-454e-85d3-894d25a26af9"
+          asi:name="IsRichText"
+          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          pvi:value="false" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
           x:id="69c00132-83af-409e-93f2-5ed66e4c1ba9"
-          asi:name="NewPropertyValue"
+          asi:name="Left"
           apvi:propertyId="729b0402-6d81-47bc-936a-c26328136607"
           pvi:value="108" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="24769cb2-884e-4a84-b215-80dff585449b"
-          asi:name="NewPropertyValue"
+          asi:name="Multiline"
           apvi:propertyId="c2abd09e-17b2-4a60-9a62-c28078dc632a"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="38d77c6e-07d1-49e1-aa54-78b3ebe7e9ce"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="340fed3d-87c0-4c4b-a474-d28ebe2a7a14" />
-        <pvi:PropertyValueItem
-          asi:abstract="false"
-          x:id="ed07e3e4-e794-454e-85d3-894d25a26af9"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="6a6e791e-0854-4779-9150-e70725b5d279"
+          x:id="d65bc11f-8044-49e9-a5d8-9fb325c8af25"
+          asi:name="ReadOnly"
+          apvi:propertyId="2240ad59-99a5-4429-89e6-94a3d9fd62b8"
           pvi:value="false" />
         <pvi:PropertyValueItem
           asi:abstract="false"
-          x:id="08093855-6494-4dca-88a3-ac742b64fc6a"
-          asi:name="NewPropertyValue"
-          apvi:propertyId="2feb3117-3bcd-4779-baa8-ef742e1eb108" />
+          x:id="318a86ba-4492-494f-bec7-2d2dca84c35f"
+          asi:name="StyleId"
+          apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
+          pvi:value="00000000-0000-0000-0000-000000000000" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="a20d0bb3-2989-4dfc-a13c-ae43368abe88"
+          asi:name="TabIndex"
+          apvi:propertyId="47cd5ccd-1e49-40d0-bc82-ac6c98fee39f"
+          pvi:value="5" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="f0489eae-dbe0-4c6f-afdf-2aa672171337"
-          asi:name="NewPropertyValue"
+          asi:name="Top"
           apvi:propertyId="bf2e55d0-5859-4b26-9e82-f187a61f53f7"
           pvi:value="126" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="ca397e59-b0f8-4eb5-b68c-42538e6f3e37"
+          asi:name="Value"
+          apvi:propertyId="e4c1751b-7b33-42d3-b945-11971cdf7c56" />
+        <pvi:PropertyValueItem
+          asi:abstract="false"
+          x:id="8a668554-a5e4-4c9a-9c04-6be77dbe0497"
+          asi:name="Width"
+          apvi:propertyId="f40ac6ea-026c-4e8d-89e7-a13db97bd37c"
+          pvi:value="400" />
       </csi:ControlSetItem>
       <csi:ControlSetItem
         asi:abstract="false"
@@ -916,7 +916,7 @@
           x:id="69b6f272-6a9b-4b59-8fc5-7fdd3a5f5993"
           asi:name="StyleId"
           apvi:propertyId="02a5fdbd-f29d-408e-ac4a-0ef7e7be7a40"
-          pvi:value="00000000-0000-0000-0000-000000000000" />
+          pvi:value="2b7007ad-0454-40d8-b5c5-c51c1980cc2a" />
         <pvi:PropertyValueItem
           asi:abstract="false"
           x:id="0e0cac48-88a4-4678-80e4-679ca9ece681"
