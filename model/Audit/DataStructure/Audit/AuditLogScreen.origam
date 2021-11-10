@@ -219,16 +219,16 @@
       <dsfsf:DataStructureFilterSetFilter
         asi:abstract="false"
         dsfsf:entity="Audit/DataStructure/Audit/AuditLogScreen.origam#AuditLogScreen/OrigamDataAuditLog/c7785741-76ae-4301-81ab-72705fd27930"
-        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/ToTime/c3c3898e-7c36-4be2-baeb-99858933b3b5"
-        x:id="8ab42cad-fe1f-48a1-a90e-ef71604776ae"
-        asi:name="OrigamDataAuditLog_ToTime"
+        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/FromTime/7577e861-5e2e-4e24-a042-f87b37278536"
+        x:id="576068f2-ea65-49da-8e73-b650180cd16c"
+        asi:name="OrigamDataAuditLog_FromTime"
         dsfsf:passWhenParameterMatch="false" />
       <dsfsf:DataStructureFilterSetFilter
         asi:abstract="false"
         dsfsf:entity="Audit/DataStructure/Audit/AuditLogScreen.origam#AuditLogScreen/OrigamDataAuditLog/c7785741-76ae-4301-81ab-72705fd27930"
-        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/FromTime/7577e861-5e2e-4e24-a042-f87b37278536"
-        x:id="576068f2-ea65-49da-8e73-b650180cd16c"
-        asi:name="OrigamDataAuditLog_FromTime"
+        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/ToTime/c3c3898e-7c36-4be2-baeb-99858933b3b5"
+        x:id="8ab42cad-fe1f-48a1-a90e-ef71604776ae"
+        asi:name="OrigamDataAuditLog_ToTime"
         dsfsf:passWhenParameterMatch="false" />
       <dsfsf:DataStructureFilterSetFilter
         asi:abstract="false"
@@ -279,9 +279,23 @@
       <dsfsf:DataStructureFilterSetFilter
         asi:abstract="false"
         dsfsf:entity="Audit/DataStructure/Audit/AuditLogScreen.origam#AuditLogScreen/OrigamDataAuditLog/c7785741-76ae-4301-81ab-72705fd27930"
+        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/ToTime/c3c3898e-7c36-4be2-baeb-99858933b3b5"
+        x:id="d4edc91a-4eb2-4b3d-8b67-138627464ca3"
+        asi:name="OrigamDataAuditLog_ToTime"
+        dsfsf:passWhenParameterMatch="false" />
+      <dsfsf:DataStructureFilterSetFilter
+        asi:abstract="false"
+        dsfsf:entity="Audit/DataStructure/Audit/AuditLogScreen.origam#AuditLogScreen/OrigamDataAuditLog/c7785741-76ae-4301-81ab-72705fd27930"
         dsfsf:filter="Root/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/GetByParentRecordIdOrSecondReferenceKey/07192def-61bf-4ddf-a18d-4cf33aac3df7"
         x:id="736f67e2-37cd-40be-bcd1-dfe218134c73"
         asi:name="OrigamDataAuditLog_GetByParentRecordIdOrSecondReferenceKey"
+        dsfsf:passWhenParameterMatch="false" />
+      <dsfsf:DataStructureFilterSetFilter
+        asi:abstract="false"
+        dsfsf:entity="Audit/DataStructure/Audit/AuditLogScreen.origam#AuditLogScreen/OrigamDataAuditLog/c7785741-76ae-4301-81ab-72705fd27930"
+        dsfsf:filter="Audit/DataEntity/__system/OrigamDataAuditLog.origam#OrigamDataAuditLog/FromTime/7577e861-5e2e-4e24-a042-f87b37278536"
+        x:id="cb6c1330-a35c-4e0a-acd1-caa4aa616a65"
+        asi:name="OrigamDataAuditLog_FromTime"
         dsfsf:passWhenParameterMatch="false" />
     </dsfs:DataStructureFilterSet>
     <dsss:DataStructureSortSet
