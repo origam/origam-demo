@@ -7,12 +7,42 @@
     s:isHidden="false"
     asi:name="Widgets"
     x:parentId="147775f5-451d-4efd-8634-7f27a2cf50a6">
+    <frmi:MenuItem
+      asi:abstract="false"
+      ami:alwaysOpenNew="false"
+      frmi:autoSaveOnListRecordChange="false"
+      ami:displayName="InitialScreen"
+      x:id="1369073c-c88a-49a5-be3f-17c1b60030e8"
+      asi:name="InitialScreen"
+      ami:openExclusively="false"
+      frmi:readOnlyAccess="false"
+      frmi:refreshAfterSaveType="RefreshChangedRecords"
+      frmi:refreshOnFocus="false"
+      frmi:refreshPortalAfterSave="false"
+      frmi:requestSaveAfterUpdate="false"
+      ami:roles="InitialScreen"
+      frmi:screen="Widgets/FormControlSet/Widgets/InitialScreen.origam#InitialScreen/42e20a31-40d9-4dd2-8501-4a8e0a6d4e03" />
     <s:MenuItem
       asi:abstract="false"
       ami:displayName="Dropdown"
       x:id="1c71287d-5f60-496b-af4f-eb5cf19ffc0b"
       s:isHidden="false"
       asi:name="Dropdown">
+      <frmi:MenuItem
+        asi:abstract="false"
+        ami:alwaysOpenNew="false"
+        frmi:autoSaveOnListRecordChange="false"
+        ami:displayName="Dropdown Lookup Field"
+        x:id="0111ebdc-f5fe-4471-83ac-3956f595d177"
+        asi:name="DropdownLookupField"
+        ami:openExclusively="false"
+        frmi:readOnlyAccess="false"
+        frmi:refreshAfterSaveType="RefreshChangedRecords"
+        frmi:refreshOnFocus="false"
+        frmi:refreshPortalAfterSave="false"
+        frmi:requestSaveAfterUpdate="false"
+        ami:roles="*"
+        frmi:screen="Widgets/FormControlSet/Widgets/DropdownLookupField.origam#DropdownLookupField/7adecac8-a47b-4645-ad62-7864e73508fc" />
       <frmi:MenuItem
         asi:abstract="false"
         ami:alwaysOpenNew="false"
@@ -33,21 +63,6 @@
         ami:roles="*"
         frmi:screen="Widgets/FormControlSet/Widgets/WidgetDropdownTest.origam#WidgetDropdownTest/7adecac8-a47b-4645-ad62-7864e73508fc"
         frmi:sortSet="Widgets/DataStructure/Widgets/WidgetDropdownTest.origam#WidgetDropdownTest/Default/c2311307-c47f-4e84-88fb-d7df9b5becf8" />
-      <frmi:MenuItem
-        asi:abstract="false"
-        ami:alwaysOpenNew="false"
-        frmi:autoSaveOnListRecordChange="false"
-        ami:displayName="Dropdown Lookup Field"
-        x:id="0111ebdc-f5fe-4471-83ac-3956f595d177"
-        asi:name="DropdownLookupField"
-        ami:openExclusively="false"
-        frmi:readOnlyAccess="false"
-        frmi:refreshAfterSaveType="RefreshChangedRecords"
-        frmi:refreshOnFocus="false"
-        frmi:refreshPortalAfterSave="false"
-        frmi:requestSaveAfterUpdate="false"
-        ami:roles="*"
-        frmi:screen="Widgets/FormControlSet/Widgets/DropdownLookupField.origam#DropdownLookupField/7adecac8-a47b-4645-ad62-7864e73508fc" />
       <frmi:MenuItem
         asi:abstract="false"
         frmi:autoSaveOnListRecordChange="false"
