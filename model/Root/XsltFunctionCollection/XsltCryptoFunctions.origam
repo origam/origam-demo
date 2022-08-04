@@ -6,9 +6,9 @@
   <xfc:XsltFunctionCollection
     asi:abstract="false"
     xfc:assemblyName="Origam.Rule"
-    xfc:fullClassName="Origam.Rule.XsltFunctions.XslCryptoFunctionContainer"
+    xfc:fullClassName="Origam.Rule.XsltFunctions.XsltCryptoFunctionContainer"
     x:id="d83810a3-2948-487e-a986-9a2c374e23c1"
-    asi:name="XslCryptoFunctions"
+    asi:name="XsltCryptoFunctions"
     xfc:xslNameSpacePrefix="CR"
     xfc:xslNameSpaceUri="http://xsl.origam.com/crypto" />
 </x:file>
